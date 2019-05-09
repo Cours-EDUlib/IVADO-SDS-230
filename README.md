@@ -2,6 +2,8 @@
 
 Vous trouverez ici l'exemple de code qui a été utilisé lors de la présentation de l'[école en science des données et santé](https://ivado.ca/formations/ecoles/ecole-donnees-sante-novembre-2018).
 
+Les slides se trouvent dans le dossier [présentation](https://github.com/jerpint/ecole_sante_18/blob/master/presentation/ESDS_2018_Jour2_5_Librairies_JeremyPinto.pdf).
+
 # Utilisation
 
 Ce notebook a été conçu pour l'utilisation avec Colab, afin de faciliter le partage du fichier et l'exécution du code.

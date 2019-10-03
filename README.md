@@ -1,8 +1,8 @@
 # École en science des données et santé – novembre 2018
 
-Vous trouverez ici l'exemple de code qui a été utilisé lors de la présentation de l'[école en science des données et santé](https://ivado.ca/formations/ecoles/ecole-donnees-sante-novembre-2018).
+Vous trouverez ici l'exemple de code qui a été utilisé dans le module 4 du MOOC [science des données et santé](https://cours.edulib.org/courses/course-v1:IVADO+SDS-230+E2019/course/).
 
-Les slides se trouvent dans le dossier [présentation](https://github.com/jerpint/ecole_sante_18/blob/master/presentation/ESDS_2018_Jour2_5_Librairies_JeremyPinto.pdf).
+Les slides se trouvent dans le dossier [présentation](https://github.com/Cours-EDUlib/IVADO-SDS-230/tree/master/presentation).
 
 # Utilisation
 

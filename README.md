@@ -1,6 +1,6 @@
 # École en science des données et santé – novembre 2018
 
-Vous trouverez ici l'exemple de code qui a été utilisé dans le module 4 du MOOC [science des données et santé](https://cours.edulib.org/courses/course-v1:IVADO+SDS-230+E2019/course/).
+Vous trouverez ici l'exemple de code qui a été utilisé dans le module 4 du MOOC [science des données et santé](https://cours.edulib.org/courses/course-v1:IVADO+SDS-230+E2019/about/).
 
 Les slides se trouvent dans le dossier [présentation](https://github.com/Cours-EDUlib/IVADO-SDS-230/tree/master/presentation).
 

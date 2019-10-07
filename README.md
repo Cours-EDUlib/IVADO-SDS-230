@@ -22,3 +22,4 @@ jeremy.pinto@mila.quebec
 
 www.mila.quebec
 
+(c) Copyright 2018-2020 Jeremy Pinto, licence MIT

@@ -12,7 +12,8 @@ Afin d'utiliser cet exemple avec google Colab, [cliquez ici](https://colab.resea
 
 Pour exécuter les cellules, appuyez sur le coin supérieur gauche de la case où vous voyez des lignes de commande. Vous devez exécuter les commandes en ordre chronologique en débutant par le haut du document, sinon l'exemple ne fonctionnera pas.
 
-#Auteur
+# Auteur
+
 Origine de la démonstration: https://github.com/jerpint/ecole_sante_18
 Jeremy Pinto, Scientifique en recherche appliquée, Mila
 jeremy.pinto@mila.quebec

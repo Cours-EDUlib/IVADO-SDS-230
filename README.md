@@ -15,7 +15,10 @@ Pour exécuter les cellules, appuyez sur le coin supérieur gauche de la case o�
 # Auteur
 
 Origine de la démonstration: https://github.com/jerpint/ecole_sante_18
+
 Jeremy Pinto, Scientifique en recherche appliquée, Mila
+
 jeremy.pinto@mila.quebec
+
 www.mila.quebec
 
